@@ -1,3 +1,9 @@
+<hr>
+Created by Dunmord.
+
+[Dunmord/UnityMegamanX](https://github.com/Dunmord/UnityMegamanX)
+<hr>
+
 # UnityMegamanX
 
 Not under active development. First level is playable from start to end.
