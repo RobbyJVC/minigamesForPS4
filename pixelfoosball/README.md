@@ -1,3 +1,9 @@
+<hr>
+Created by
+[nuno-faria's pixelfoosball](https://github.com/nuno-faria/pixelfoosball/commits?author=nuno-faria)
+<hr>
+
+
 ![](ReadmeResources/logo.png)
 
 An arcarde foosball (table football) game made with Unity. Play online [here](https://nuno-faria.itch.io/pixelfoosball).
