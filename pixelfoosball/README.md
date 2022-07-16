@@ -1,6 +1,8 @@
 <hr>
-Created by
+Created by nuno-faria
+
 [nuno-faria's pixelfoosball](https://github.com/nuno-faria/pixelfoosball/commits?author=nuno-faria)
+
 <hr>
 
 
